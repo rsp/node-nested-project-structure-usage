@@ -1,7 +1,7 @@
 node nested module structure usage
 ==================================
 
-A usage example for [node nested project structure example](https://github.com/rsp/node-nested-project-structure-example)
+A usage example for [node nested project structure example](https://github.com/rsp/node-nested-project-structure-example) - see: [test.js](test.js)
 
 [![Build Status](https://travis-ci.org/rsp/node-nested-project-structure-usage.svg?branch=master)](https://travis-ci.org/rsp/node-nested-project-structure-usage)
 
