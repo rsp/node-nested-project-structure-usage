@@ -9,6 +9,21 @@ Node.js example for a Stack Overflow answer:
 
 * [npm package.json main and project structure](https://stackoverflow.com/a/39743889/613198)
 
+Project structure:
+
+```
+dist
+  -- index.js
+  -- moduleA
+    -- index.js
+package.json
+```
+
+See:
+
+* Module: https://github.com/rsp/node-nested-project-structure-example
+* Usage: https://github.com/rsp/node-nested-project-structure-usage
+
 Issues
 ------
 For any bug reports or feature requests please
