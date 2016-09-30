@@ -1,7 +1,11 @@
 node nested module structure usage
 ==================================
 
-A usage example for [node nested project structure example](https://github.com/rsp/node-nested-project-structure-example) - see: [test.js](test.js)
+A usage example for [node nested project structure example](https://github.com/rsp/node-nested-project-structure-example) - see:
+
+* [test1.js](test1.js)
+* [test2.js](test2.js)
+* [test3.js](test3.js)
 
 [![Build Status](https://travis-ci.org/rsp/node-nested-project-structure-usage.svg?branch=master)](https://travis-ci.org/rsp/node-nested-project-structure-usage)
 
@@ -17,6 +21,7 @@ dist
   -- moduleA
     -- index.js
 package.json
+moduleA.js
 ```
 
 See:
