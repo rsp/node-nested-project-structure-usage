@@ -4,11 +4,11 @@
   "description": "A nested module structure example - usage",
   "main": "test.js",
   "dependencies": {
-    "nested-project-structure-example": "0.0.2"
+    "nested-project-structure-example": "^0.0.6"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node test.js"
+    "test": "node test1.js && node test2.js && node test3.js"
   },
   "repository": {
     "type": "git",
