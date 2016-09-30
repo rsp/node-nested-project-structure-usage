@@ -4,7 +4,7 @@
   "description": "A nested module structure example - usage",
   "main": "test.js",
   "dependencies": {
-    "nested-project-structure-example": "^0.0.6"
+    "nested-project-structure-example": "0.0.x"
   },
   "devDependencies": {},
   "scripts": {
