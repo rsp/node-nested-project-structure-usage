@@ -1,6 +1,6 @@
 {
   "name": "nested-project-structure-usage",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A nested module structure example - usage",
   "main": "test.js",
   "dependencies": {
