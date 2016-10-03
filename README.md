@@ -1,6 +1,8 @@
 node nested module structure usage
 ==================================
 
+[![Known Vulnerabilities](https://snyk.io/test/github/rsp/node-nested-project-structure-usage/8efbae2dadd1f876b83c95562cba8d4595a22886/badge.svg)](https://snyk.io/test/github/rsp/node-nested-project-structure-usage/8efbae2dadd1f876b83c95562cba8d4595a22886)
+
 A usage example for [node nested project structure example](https://github.com/rsp/node-nested-project-structure-example) - see:
 
 * [test1.js](test1.js)
